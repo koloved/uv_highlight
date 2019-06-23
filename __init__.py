@@ -5,7 +5,7 @@ bl_info = {
     "description": "Show uv selections in the scene view",
     "version": (0, 2),
     "location": "ImageEditor > Tool Shelf",
-    "blender": (2, 79, 0),
+    "blender": (2, 80, 0),
 }
 
 if "bpy" in locals():
